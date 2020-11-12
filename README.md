@@ -1,4 +1,4 @@
-![](fish.png =250x250)
+![](fish.png | width="200" height="200")
 
 # React-Visualization
 Repository for developing a financial visualization tool built on React into a dashboard page exposing bank open API data visually to help personal finance planning and decisions.
