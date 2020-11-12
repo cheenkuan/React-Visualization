@@ -1,3 +1,5 @@
+<img src="fish.png" width="324" height="324">
+
 # React-Visualization
 Repository for developing a financial visualization tool built on React into a dashboard page exposing bank open API data visually to help personal finance planning and decisions.
 
@@ -17,5 +19,3 @@ node server.js
 
 ## Start React App
 => npm start
-
-![](fish.png)
